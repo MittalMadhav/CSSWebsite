@@ -1,0 +1,125 @@
+body
+{
+	background-color: #f4f4f4;
+	color: #555555;
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+a
+{
+	text-decoration: none;
+	color: #FFF;
+	margin-right: 20px;
+	font-size: 20px;
+}
+
+a:hover
+{
+	color: #41ADCD;
+}
+
+.container
+{
+	width: 80%;
+	margin: auto;
+	padding: 15px;
+}
+
+.clr
+{
+	clear: both;
+}
+
+#mainHeader
+{
+	background-color: #FF8833;
+}
+
+.myWebsite
+{
+	color: #FFF;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+
+#subHeader
+{
+	background-color: #333;
+}
+
+#famousQuote
+{
+	min-height: 300px;
+	background-image: url("../images/bg.jpg");
+	background-position: center right;
+	margin-bottom: 30px;
+}
+
+#famousQuote p
+{
+	font-family: Courier;
+	font-size: 30px;
+	text-align: center;
+	color: #000;
+	line-height: 1.6em;
+	padding-top: 60px;
+}
+
+#bottomSection
+{
+	margin-bottom: 50px;
+}
+
+#welcome
+{
+	width: 70%;
+	float: left;
+	box-sizing: border-box;
+}
+
+#welcome h2
+{
+	color: #38302B;
+	font-weight: bold;
+
+	margin-bottom: 10px;
+}
+
+#welcome p
+{
+	font-family: monospace;
+	color: #313232;
+}
+
+#asideBox
+{
+	background-color: #38302B;
+	width: 25%;
+	float: right;
+	padding: 10px;
+	margin-top: 15px;
+	box-sizing: border-box;
+}
+
+#asideBox p
+{
+	color: #FFF;
+}
+
+#copyrightBox
+{
+	background-color: #38302B;	
+	padding: 10.6px 0px;
+}
+
+#copyrightBox p
+{
+	color: #FFF;
+	text-align: center;
+}
